@@ -1,0 +1,52 @@
+.section {
+  color: #fff;
+  height: 730px;
+  margin: 0;
+  padding: 100px 0 160px 0; }
+
+#section1 {
+  background: url("../img/five.jpg") center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.8; }
+
+#section2 {
+  background: url("../img/two.jpg") center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+#section3 {
+  background: url("../img/three.jpg") center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+#section4 {
+  background: url("../img/four.jpg") center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+#section5 {
+  background: url("../img/one.jpg") center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+.home {
+  margin-top: 200px;
+  text-align: center;
+  font-family: "Helvetica"; }
+
+.main1 {
+  font-size: 75px; }
+
+#nav {
+  opacity: 1; }
